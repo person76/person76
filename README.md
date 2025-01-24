@@ -37,11 +37,13 @@
         <div style="text-align: left;"> 
             <img src="https://github-readme-stats.vercel.app/api?username=person76&bg_color=60,00000000,ffd500&title_color=fff0c7&text_color=fff0c7"/>
             <br/>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=person76&layout=compact&bg_color=60,00000000,ffd500&title_color=fff0c7&text_color=fff0c7"
-           /> 
-           <br/?>
-            <div> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bhk226)](https://solved.ac/bhk226/) </div>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=person76&layout=compact&bg_color=60,00000000,ffd500&title_color=fff0c7&text_color=fff0c7"/>
+            <br/>
+            <a href="https://solved.ac/bhk226/">
+                <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bhk226" alt="Solved.ac Profile"/>
+            </a>
         </div> 
-    </div>
+</div>
+
     
 
