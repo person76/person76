@@ -39,7 +39,7 @@
             <br/>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=person76&layout=compact&bg_color=60,00000000,ffd500&title_color=fff0c7&text_color=fff0c7"
            /> 
-            [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bhk226)](https://solved.ac/bhk226/)
+           - [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bhk226)](https://solved.ac/bhk226/)
         </div> 
     </div>
     
